@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my profile.
 
-<!--
-**N3H4L/N3H4L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://komarev.com/ghpvc/?username=N3H4L&color=green">
+<img src="https://github-readme-stats.vercel.app/api?username=N3H4L&show_icons=true&theme=tokyonight" width="480">
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **VAPT** & **Bug Bounty hunting**.
+- 🌱 I’m currently learning **Log4Shell** :)
+- 👯 I’m looking to collaborate on security projects.
+- 💬 Ask me about **Web application security** & **CTFs**.
+- 📫 How to reach me: nehalzaman@protonmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I'm a programmer with a life.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N3H4L" width="350">
